@@ -1,29 +1,31 @@
-# This is a large heading
+# Christian Makalo Clifford
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Stockholm, in Sweden.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Narnia* book series by C.S. Lewis
+- *The Hobbit* by J.R.R Tolkien
+- *The Lord of the Rings* by J.R.R Tolkien
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favourite foods include:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Pizza
+2. Hamburgers
+3. Thai
+4. Indian
+
+### Movies 
+
+My favourite movies are:
+
+1. Star Wars series
+2. The Hobbit series
+3. Lord of the rings series
 
